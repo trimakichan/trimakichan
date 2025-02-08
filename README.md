@@ -1,4 +1,6 @@
+![6614334b-8145-4a83-8b45-0812f7769365](https://github.com/user-attachments/assets/cc45ab48-5289-4adc-b373-42d80a9e94c5)
 # Hi there!👋 I am Makiko 👩🏻‍💻
+
 
 # 💫 About Me:
 I am a design-minded developer with a background in IT support engineering and eCommerce. Originally from Japan 🗾 and now based in Seattle, I enjoy combining technology and aesthetics to craft seamless digital experiences. I prioritize user experience as much as technical functionality, ensuring that every solution is both intuitive and efficient. 
@@ -16,3 +18,5 @@ https://portfolio-makiko.netlify.app/
 ・UX/UI  
 ・Data Structure and Algorithms  
 ・Studying for AWS Certified Developer
+
+![github2](https://github.com/user-attachments/assets/abc49914-e1b4-4d1f-8b66-371988c497ef)
