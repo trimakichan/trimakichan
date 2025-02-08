@@ -6,7 +6,7 @@
 I am a design-minded developer with a background in IT support engineering and eCommerce. Originally from Japan 🗾 and now based in Seattle, I enjoy combining technology and aesthetics to craft seamless digital experiences. I prioritize user experience as much as technical functionality, ensuring that every solution is both intuitive and efficient. 
 When I'm not in front of my computer, you’ll find me woodworking🪵, DIYing, practicing hot yoga🧘, capturing moments through photography, cooking.
 
-# <img src="https://github.com/user-attachments/assets/eb907a2d-b46a-4018-a794-b490d5a6c0bb" width="30" height="30"> My Portfolio  🇯🇵
+# <img src="https://github.com/user-attachments/assets/eb907a2d-b46a-4018-a794-b490d5a6c0bb" width="30" height="30"> My Portfolio 
 https://portfolio-makiko.netlify.app/
 
 # 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/makiko-yokoyama) 
